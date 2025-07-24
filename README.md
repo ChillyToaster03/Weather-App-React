@@ -1,4 +1,4 @@
-# WeatherSphere: React Weather Application  
+# React Weather Application  
 
 **A responsive weather dashboard featuring real-time data, theme customization, and intuitive UX**  
 
@@ -63,16 +63,15 @@
 
 ### Installation  
 ```bash
-git clone https://github.com/your-repo/weathersphere.git
+git clone https://github.com/your-repo/Weather-App-React.git
 cd weathersphere
 npm install
 ```
 
 ### Execution  
 ```bash
-npm start
-```
-Access application at: `http://localhost:3000`  
+yarn dev
+``` 
 
 ## Contribution Guidelines  
 
