@@ -1,4 +1,5 @@
 React Weather App
+
 A simple and responsive web application built with React that allows users to search for current weather conditions in any city and toggle between light and dark themes.
 
 Features
